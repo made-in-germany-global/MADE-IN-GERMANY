@@ -1,31 +1,23 @@
-# MADE-IN-GERMANY
-# GERMANY FOR FUTURE – Made in Germany Global
+# Made in Germany
 
-Germany for Future ist ein internationales Technologie- und Handelsprojekt, das deutsche Innovation, Qualität und Verantwortung in die Welt trägt. Es vereint fortschrittliche Webtechnologien mit einer klaren Mission: Den weltweiten Zugang zu hochwertigen Produkten, Lösungen und Ideen "Made in Germany" zu erleichtern – nachhaltig, effizient und visionär.
+Gründer & Projektinitiator: Andreas Thommen
 
-## Ziel
+Made in Germany ist ein internationales B2B-Portal für hochwertige deutsche Industrieprodukte. Die Plattform bringt Hersteller und Großabnehmer weltweit zusammen – effizient, skalierbar und digital.
 
-Unsere Plattform dient als globales Schaufenster deutscher Unternehmen und Produkte – von Industrie und Maschinenbau über Medizintechnik bis hin zu Umwelt- und Zukunftsprojekten. Der Schwerpunkt liegt auf einem zentralisierten B2B-Handelssystem mit:
-- containerweiser Bestellung & Abwicklung
-- intelligenter Logistiklösung
-- mehrsprachiger Kundenführung
-- länderspezifischen SEO-optimierten Subdomains
+Was wir bieten:
+- Bestellung kompletter Containerladungen direkt über die Plattform
+- Integration deutscher Hersteller mit XML-/CSV-Produkt-Uploads
+- zentrale Logistiksteuerung über Lager & Speditionen in Deutschland
+- Franchise-System mit lokalen Partnern in über 50 Ländern
+- multilinguales CRM, Lead-Funnel und automatisiertes Vertriebssystem
+- SEO-optimierte Domains/Subdomains je Zielland
 
-## Architektur
+Branchenfokus:
+- Maschinenbau & Industrieanlagen  
+- Medizintechnik & Laborausstattung  
+- Gastronomie- & Hotelbedarf  
+- Automobilzulieferung  
+- Chemie & Pharma
 
-- Technologien: Astro + React + TypeScript + Tailwind
-- Modularer Aufbau: Alle Komponenten sind als Sections im `src/components/sections`-Ordner organisiert
-- Mehrsprachigkeit: Skalierbares Internationalisierungssystem für über 50 Sprachen
-- API-Ready: Anbindung an CRM, Speditionen, Zahlungsanbieter & Franchise-Backoffice vorgesehen
-- Privacy-First: DSGVO-konform, mit Cookie-Banner und konfigurierbarer Einwilligung
-
-## Struktur
-
-```bash
-/src
-  └── components
-      └── sections
-          ├── Header
-          ├── CookieBanner
-          ├── Hero
-          ├── ...
+Website: [https://made-in-germany.de](https://made-in-germany.de)  
+Kontakt: kontakt@made-in-germany.de
