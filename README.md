@@ -4,7 +4,7 @@
   
   <img src="founder-from-made-in-germany-andreas-thommen.png" alt="Made in Germany" />
   
-  <h1>🇩🇪 MADE-IN-GERMANY<sup>©</sup> 🇩🇪</h1>
+  <h1>GLOBAL MADE-IN-GERMANY<sup>©</sup> GLOBAL</h1>
   
   <p>Premium German Industrial B2B Portal | <i>Quality Without Compromise</i></p>
   
