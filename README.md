@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <img src="https://img.shields.io/badge/MADE--IN--GERMANY-000000?style=for-the-badge&logo=german-made&logoColor=FFD700" alt="Made in Germany" width="300"/>
+  <img src="founder-made-in-germany-andreas-thommen.jpeg" alt="Made in Germany" width="300"/>
   
   <h1>🇩🇪 MADE-IN-GERMANY<sup>©</sup> 🇩🇪</h1>
   
