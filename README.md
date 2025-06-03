@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <img src="founder-from-made-in-germany-andreas-thommen.png" alt="Made in Germany" width="300"/>
+  <img src="founder-from-made-in-germany-andreas-thommen.png" alt="Made in Germany" />
   
   <h1>🇩🇪 MADE-IN-GERMANY<sup>©</sup> 🇩🇪</h1>
   
