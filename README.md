@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <img src="https://via.placeholder.com/150x150?text=Founder+Andreas+Thommen" alt="Made in Germany" />
+  <img src="founder-for-made-in-germany-andreas-thommen.png" alt="Made in Germany" />
   
   <h1>MADE-IN-GERMANY<sup>©</sup> GLOBAL</h1>
   
