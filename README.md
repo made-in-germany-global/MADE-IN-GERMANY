@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <img src="founder-for-made-in-germany-andreas-thommen.png" alt="Made in Germany" />
+  <img src="founder-from-made-in-germany-andreas-thommen.png" alt="Made in Germany" />
   
   <h1>MADE-IN-GERMANY<sup>©</sup> GLOBAL</h1>
   
@@ -15,18 +15,18 @@
   
   <br>
   
-  <img src="https://img.shields.io/website?label=Website&url=https%3A%2F%2Fmade-in-germany.de&style=flat-square" alt="Website Status" />
-  <img src="https://img.shields.io/badge/Countries-50%2B-blue?style=flat-square" alt="Countries" />
-  <img src="https://img.shields.io/badge/Manufacturers-Premium-FFD700?style=flat-square" alt="Partners" />
-  <img src="https://img.shields.io/badge/Platform-B2B-success?style=flat-square" alt="Platform" />
+  ![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fmade-in-germany.de&style=flat-square)
+  ![Countries](https://img.shields.io/badge/Countries-50%2B-blue?style=flat-square)
+  ![Partners](https://img.shields.io/badge/Manufacturers-Premium-FFD700?style=flat-square)
+  ![Platform](https://img.shields.io/badge/Platform-B2B-success?style=flat-square)
   
-  <img src="https://via.placeholder.com/728x90?text=Midnight+Line" alt="Divider Line">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/midnight.png">
 </div>
 
 <div id="english">
 
 <div align="center">
-  <img src="https://via.placeholder.com/728x90?text=Midnight+Line" alt="Divider Line">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/midnight.png">
   <h2>🚀 International B2B Platform for Premium German Industrial Products</h2>
 </div>
 
@@ -132,7 +132,7 @@ To establish the definitive global marketplace for premium German industrial pro
 <div id="german" style="display: none;">
 
 <div align="center">
-  <img src="https://via.placeholder.com/728x90?text=Midnight+Line" alt="Divider Line">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/midnight.png">
   <h2>🚀 Internationale B2B-Plattform für Premium-Industrieprodukte aus Deutschland</h2>
 </div>
 
