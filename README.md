@@ -1,57 +1,65 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://made-in-germany.global/assets/banner.png" alt="Made in Germany Banner" width="100%">
+  <img src="https://made-in-germany.global/assets/made-in-germany-banner.jpg" alt="Made in Germany Global & International" width="100%">
 </p>
 
 <h1 align="center">🌍 Made in Germany International & Global 🚀</h1>
-<h3 align="center">Qualität, Innovation & Zukunft – weltweit verbunden</h3>
+<h3 align="center">Qualität | Innovation | Zukunft | Verantwortung</h3>
 
 ---
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://made-in-germany.global"><img src="https://img.shields.io/badge/🌐-Made_in_Germany_Global-blue?style=for-the-badge" /></a>
-  <a href="https://github.com/made-in-germany-international"><img src="https://img.shields.io/badge/Organization-Made_in_Germany_International-red?style=for-the-badge" /></a>
-  <a href="https://github.com/made-in-germany-global"><img src="https://img.shields.io/badge/Profile-Made_in_Germany_Global-green?style=for-the-badge" /></a>
+  <a href="https://made-in-germany.global"><img src="https://img.shields.io/badge/🌐-Website-000000?style=for-the-badge&logo=internet-explorer&logoColor=white" /></a>
+  <a href="https://github.com/made-in-germany-international"><img src="https://img.shields.io/badge/Organization-Made_in_Germany_International-d00000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/made-in-germany-global"><img src="https://img.shields.io/badge/Profile-Made_in_Germany_Global-ffcc00?style=for-the-badge&logo=starship&logoColor=black" /></a>
 </p>
 
 ---
 
-## 🎯 Mission
-Wir verbinden **Produkte, Services, Innovation und Technologie Made in Germany** mit der Welt.  
-Unsere Plattformen stärken **Export, Zertifizierung, internationale Partnerschaften** und setzen mit  
-🌱 **Germany for Future** ein klares Signal für Nachhaltigkeit und globale Verantwortung.
+## 🎯 Unsere Mission
+**Made in Germany** steht seit Generationen für Qualität, Präzision und Innovation.  
+Mit **Made in Germany International & Made in Germany Global** schaffen wir eine Plattform, die:  
+- 🌐 internationale Märkte verbindet  
+- 🏭 deutsche Produkte & Services sichtbar macht  
+- 📈 Export, Lieferketten & Zertifizierungen erleichtert  
+- 🌱 mit **Germany for Future** Nachhaltigkeit & Verantwortung in den Vordergrund rückt  
+
+> Wir gratulieren allen Menschen weltweit, die **Produkte Made in Germany** schätzen, und danken zugleich  
+> den Bürgerinnen & Bürgern, den Politikerinnen & Politikern sowie den Institutionen in Deutschland,  
+> die diesen Erfolg möglich machen.  
 
 ---
 
-## 📂 Repositories
-### 🌐 Organization: [Made-in-Germany-International](https://github.com/made-in-germany-international)
-- [Made in Germany Products](https://github.com/made-in-germany-international/made-in-germany-products)  
-- [Made in Germany Services](https://github.com/made-in-germany-international/made-in-germany-services)  
-- [Export & International Trade](https://github.com/made-in-germany-international/made-in-germany-export-and-international-trade)  
-- [Innovation & Technology](https://github.com/made-in-germany-international/made-in-germany-innovation-and-technology)  
-- [Quality & Certification](https://github.com/made-in-germany-international/made-in-germany-quality-and-certification)  
-- [About the Founder – Andreas Thommen](https://github.com/made-in-germany-international/made-in-germany-about-the-founder-andreas-thommen)  
+## 📂 Unsere Repositories
 
-### 👤 Profile: [Made-in-Germany-Global](https://github.com/made-in-germany-global)
-- [Made in Germany International](https://github.com/made-in-germany-global/made-in-germany-international)  
-- [Germany for Future](https://github.com/made-in-germany-global/germany-for-future)  
-- [Made in Germany](https://github.com/made-in-germany-global/made-in-germany)  
-- [Basic Information & Guide](https://github.com/made-in-germany-global/made-in-germany-basic-information-and-guide)  
-- [Made in Germany Global](https://github.com/made-in-germany-global/made-in-germany-global)  
-- [About the Founder – Andreas Thommen](https://github.com/made-in-germany-global/made-in-germany-about-the-founder-andreas-thommen)  
+| 🌐 Organisation (International) | 👤 Profil (Global) |
+|---------------------------------|--------------------|
+| [Products](https://github.com/made-in-germany-international/made-in-germany-products) | [Made in Germany International](https://github.com/made-in-germany-global/made-in-germany-international) |
+| [Services](https://github.com/made-in-germany-international/made-in-germany-services) | [Germany for Future](https://github.com/made-in-germany-global/germany-for-future) |
+| [Export & International Trade](https://github.com/made-in-germany-international/made-in-germany-export-and-international-trade) | [Made in Germany](https://github.com/made-in-germany-global/made-in-germany) |
+| [Innovation & Technology](https://github.com/made-in-germany-international/made-in-germany-innovation-and-technology) | [Basic Information & Guide](https://github.com/made-in-germany-global/made-in-germany-basic-information-and-guide) |
+| [Quality & Certification](https://github.com/made-in-germany-international/made-in-germany-quality-and-certification) | [Made in Germany Global](https://github.com/made-in-germany-global/made-in-germany-global) |
+| [About the Founder – Andreas Thommen](https://github.com/made-in-germany-international/made-in-germany-about-the-founder-andreas-thommen) | [About the Founder – Andreas Thommen](https://github.com/made-in-germany-global/made-in-germany-about-the-founder-andreas-thommen) |
 
 ---
 
-## 🤝 Germany for Future
-Mit **Germany for Future** tragen wir die Werte von **Innovation, Nachhaltigkeit und globaler Verantwortung**  
-in die Welt – und reichen die Hand an Partner, Kulturen und Länder, die mit uns Zukunft gestalten wollen.  
+## 🌱 Germany for Future
+**Germany for Future** ist unser Beitrag zu einer nachhaltigen, innovationsstarken und verantwortungsvollen Zukunft.  
+Wir reichen die Hand an Kulturen und Länder weltweit, um gemeinsam Lösungen für:  
+- ♻️ Klimaschutz  
+- 🔋 Energieeffizienz  
+- 🏘 gesellschaftliche Verantwortung  
+- 📡 digitale Innovation  
+
+zu entwickeln und **Made in Germany als globalen Qualitäts- und Zukunftsstandard** zu verankern.  
 
 ---
 
 <!-- Footer -->
 <p align="center">
+  <img src="https://made-in-germany.global/assets/logo.png" alt="Made in Germany Logo" width="120"><br><br>
   <b>Made in Germany International & Global</b><br>
-  Qualität. Innovation. Zukunft.<br><br>
+  Qualität. Innovation. Zukunft. Verantwortung.<br><br>
   <a href="https://made-in-germany.global">🌐 made-in-germany.global</a>
 </p>
