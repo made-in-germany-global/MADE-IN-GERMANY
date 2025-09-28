@@ -561,6 +561,89 @@ graph LR
 
 ---
 
+## 🇩🇪 Made in Germany Repositories
+
+<div align="center">
+
+![Made in Germany](https://img.shields.io/badge/Made%20in-Germany-black?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjgiIGZpbGw9IiNERDAwMDAiLz4KPHJlY3QgeT0iOCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjgiIGZpbGw9IiNGRkNFMDAiLz4KPHJlY3QgeT0iMTYiIHdpZHRoPSIyNCIgaGVpZ2h0PSI4IiBmaWxsPSIjMDAwMDAwIi8+Cjwvc3ZnPgo=)
+![Total Repos](https://img.shields.io/badge/Total%20Repositories-12-brightgreen?style=for-the-badge)
+
+</div>
+
+---
+
+### 🏢 **made-in-germany-international** Organization
+
+<table>
+<tr>
+<td width="50%">
+
+[![Products](https://img.shields.io/badge/🛍️-Products-FF6B35?style=for-the-badge)](https://github.com/made-in-germany-international/made-in-germany-products)  
+*German product catalog and showcase*
+
+[![Export & Trade](https://img.shields.io/badge/🌐-Export%20%26%20Trade-45B7D1?style=for-the-badge)](https://github.com/made-in-germany-international/made-in-germany-export-and-international-trade)  
+*Export and trade information*
+
+[![Quality](https://img.shields.io/badge/⭐-Quality%20%26%20Certification-FFD93D?style=for-the-badge)](https://github.com/made-in-germany-international/made-in-germany-quality-and-certification)  
+*Quality standards and certifications*
+
+</td>
+<td width="50%">
+
+[![Services](https://img.shields.io/badge/🔧-Services-4ECDC4?style=for-the-badge)](https://github.com/made-in-germany-international/made-in-germany-services)  
+*German services and solutions*
+
+[![Innovation](https://img.shields.io/badge/💡-Innovation%20%26%20Tech-A8E6CF?style=for-the-badge)](https://github.com/made-in-germany-international/made-in-germany-innovation-and-technology)  
+*Innovation and tech developments*
+
+[![Founder](https://img.shields.io/badge/👨‍💼-Andreas%20Thommen-FF6B9D?style=for-the-badge)](https://github.com/made-in-germany-international/made-in-germany-about-the-founder-andreas-thommen)  
+*Founder information*
+
+</td>
+</tr>
+</table>
+
+---
+
+### 👤 **made-in-germany-global** Profile
+
+<table>
+<tr>
+<td width="50%">
+
+[![International](https://img.shields.io/badge/🌟-International-4169E1?style=for-the-badge)](https://github.com/made-in-germany-global/made-in-germany-international)  
+*International presence and outreach*
+
+[![Main Hub](https://img.shields.io/badge/📚-Main%20Hub-DC143C?style=for-the-badge)](https://github.com/made-in-germany-global/made-in-germany)  
+*Main repository hub*
+
+[![Global Network](https://img.shields.io/badge/🌍-Global%20Network-9932CC?style=for-the-badge)](https://github.com/made-in-germany-global/made-in-germany-global)  
+*Global network and connections*
+
+</td>
+<td width="50%">
+
+[![Future](https://img.shields.io/badge/🚀-Germany%20Future-32CD32?style=for-the-badge)](https://github.com/made-in-germany-global/germany-for-future)  
+*Future-focused German initiatives*
+
+[![Guide](https://img.shields.io/badge/📖-Information%20Guide-FF8C00?style=for-the-badge)](https://github.com/made-in-germany-global/made-in-germany-basic-information-and-guide)  
+*Basic information and guides*
+
+[![Profile](https://img.shields.io/badge/👨‍💼-Andreas%20Profile-FF1493?style=for-the-badge)](https://github.com/made-in-germany-global/made-in-germany-about-the-founder-andreas-thommen)  
+*Andreas Thommen profile*
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+---
+
+**🔥 Excellence in German Engineering & Innovation 🔥**
+
+</div>
+
 ## 📞 Community & Support
 
 <div align="center">
